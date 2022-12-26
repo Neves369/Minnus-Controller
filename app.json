@@ -23,12 +23,35 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#ffffff",
+        "versionCode": 1,
+        "package": "br.com.neves369.minnusController"
+      },
+      "permissions": [
+        "BLUETOOTH",
+        "BLUETOOTH_CONNECT",
+        "BLUETOOTH_ADMIN",
+        "BLUETOOTH_SCAN",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "BLUETOOTH_ADVERTISE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT"
+      ],
+      "package": "com.neves369.MinnusController"
     },
     "web": {
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": [
+      "@config-plugins/react-native-ble-plx"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "84185839-4622-47ed-8e10-3f4af35376d6"
+      }
     }
   }
 }
