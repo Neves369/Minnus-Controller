@@ -31,8 +31,8 @@
 
 ### Options
 
-- [Download Last Version of This App](https://nodejs.org/en/)
-- [Download Last Version of Dev Client](https://expo.io/)  
+- [Download Last Version of This App](https://expo.dev/accounts/neves369/projects/Minnus-Controller/builds/21dc0b4a-ef95-4a3d-858d-3ab0688a8ba4)
+- [Download Last Version of Dev Client](https://expo.dev/accounts/neves369/projects/Minnus-Controller/builds/478125d2-3c05-4199-b953-f48b884eba15)  
 
 if you want to run this project in development, run this:
 ```bash
