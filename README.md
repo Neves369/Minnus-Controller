@@ -1,4 +1,6 @@
 <div align="center">
+  ![huge](https://user-images.githubusercontent.com/63128431/209572100-ff024ecc-11b2-4a54-84bd-4b5dd0f84e75.png)
+
   <h1>Minnus-Controller</h1>
  
    <p>Screens</p>
