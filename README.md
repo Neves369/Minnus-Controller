@@ -4,8 +4,6 @@
  
    <p>Screens</p>
   
-  ![1624582401423](https://user-images.githubusercontent.com/63128431/123353175-515e8a80-d537-11eb-9d8d-62feb27850d6.gif)
-  ![1624582401430](https://user-images.githubusercontent.com/63128431/123353230-6c30ff00-d537-11eb-80ad-6d4cfd3501b6.gif)
   
   
   
